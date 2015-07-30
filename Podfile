@@ -1,0 +1,6 @@
+platform:ios,'7.0'
+pod "AFNetworking",'~>2.5.3'
+pod "SSKeychain",'~>1.2.3'
+pod "SVProgressHUD",'~>1.1.3'
+pod “SDWebImage”,'~>3.7.2'
+pod "MJRefresh",'~>1.4.6'
